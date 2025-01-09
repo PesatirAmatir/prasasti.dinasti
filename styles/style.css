@@ -7,7 +7,7 @@
   --borderColor: #f1f1f1;
   --lineColor: #d9d9d9; /* untuk line di pre-title */
 
-  --primaryBackgroundColor: #fff;
+  --primaryBackgroundColor: #ffffff;
   --secondaryBackgroundColor: #fbfbfb;
   --thirdBackgroundColor: #f5f3fe;
 
@@ -193,7 +193,7 @@ nav ul li a {
 }
 
 .hero-right img {
-  width: 90%;
+  width: 70%;
 }
 
 .hero-right {
